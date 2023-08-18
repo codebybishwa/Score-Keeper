@@ -1,2 +1,2 @@
 # Score-Keeper
-Keep track of scores of two players in  a game (html, css, javscript)
+Update the score of the player and his opponent in a 1v1 game and see who wins
